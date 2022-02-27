@@ -1,8 +1,13 @@
 
 Question: How to login with a different account 
-git remote set-url origin https://jasjyotsrepo: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@github.com/jasjyotsrepo/deployment.git
+Answer:
+//https
+git remote set-url origin https://jasjyotsrepo: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@github.com/jasjyotsrepo/deployment.git 
 
-where (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) is a github personal token
+//ssh
+git@github.com:jasjyotsrepo/deployment.git
+
+Note=> (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) is a github personal token
 
 How to generate this token: https://stackoverflow.com/questions/68775869/support-for-password-authentication-was-removed-please-use-a-personal-access-to
 
