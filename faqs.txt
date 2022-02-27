@@ -1,5 +1,14 @@
+
+Question: How to login with a different account 
 git remote set-url origin https://jasjyotsrepo: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@github.com/jasjyotsrepo/deployment.git
 
 where (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) is a github personal token
 
 How to generate this token: https://stackoverflow.com/questions/68775869/support-for-password-authentication-was-removed-please-use-a-personal-access-to
+
+
+
+Also, you can know which account you're logged into using KEYCHAIN access on mac.
+then click on github.com
+Show password
+The password would be your personal token.
